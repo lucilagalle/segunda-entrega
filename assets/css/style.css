@@ -1,0 +1,109 @@
+.nav-link{
+    color: rgb(225, 192, 101);
+    font-family: Poppins;
+    font-size: 25px;
+}
+.active{
+    color: rgb(225, 192, 101);
+    font-family: poppins;
+}
+.card-title{
+    color: rgb(128, 35, 12);
+    font-family: Poppins;
+    font-weight: 15px;
+}
+.titulo{
+    font-family: Poppins;
+    color: rgb(128, 35, 12);
+}
+.nav-link1{
+    color: rgb(128, 35, 12);
+    font-size: 15px;
+    text-decoration: none;
+    font-family: Poppins;
+}
+h5{
+    font-family: Poppins;
+    color: rgb(128, 35, 12);
+}
+.pagos{
+    width: 50px;
+}
+footer{
+    background-color: rgb(242, 242, 246);
+}
+.redes{
+    width: 40px;
+    border-radius: 5px;
+}
+.nutricion{
+    width: 720px;
+    height: 460px;
+}
+.secundariotitulo{
+    font-family: Poppins;
+    color: rgb(128, 35, 12);
+    font-size: 35px;
+}
+.container1{
+    background-color:  rgb(242, 242, 246);
+    height: 550px;
+}
+.form-control{
+    border-radius: 10px;
+    border-color: rgb(199, 196, 186);
+    font-family: Poppins;
+}
+.btn{
+    height: 40px;
+    width: 100px;
+    font-family: Poppins;
+}
+ul li{
+    list-style:none;
+}
+.nav > li {
+    float:left;
+}
+.nav li a {
+    text-decoration:none;
+    display:block;
+}
+.nav li a:hover {
+    color: rgb(128, 35, 12);
+}
+
+.nav li ul {
+    display:none;
+    position:relative;
+    font-family: Poppins;
+    
+}
+.nav li:hover > ul {
+    display:block;
+    color: rgb(225, 192, 101);
+
+}
+.nav li ul li {
+    position:relative;
+    
+}
+
+.nav li ul li ul {
+  font-family: Poppins;
+}
+.submenu:link{
+    color: rgb(128, 35, 12);
+}
+a:link{
+    color: rgb(128, 35, 12);
+}
+a:visited {
+    color: rgb(128, 35, 12);
+}
+a:active {
+    color: rgb(128, 35, 12);
+}
+a:hover{
+    color: rgb(128, 35, 12);
+}
